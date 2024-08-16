@@ -114,7 +114,7 @@ let script = [
     { "normal": "it makes me GLaD I'm not you." },
     { "logo-hide": "aperture" },
     { "logo-show": "atom" },
-    { "fast": "I've experiments to run." },
+    { "normal": "I've experiments to run." },
     { "logo-hide": "atom" },
     { "logo-show": "explosion" },
     { "fast": "There is research to be done." },
