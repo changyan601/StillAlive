@@ -59,7 +59,7 @@ let script = [
     { "logo-show": "fire" },
     { "pause": "1500" },
     { "normal": "As they burned it hurt because" },
-    //{ "pause": "2000"},
+    { "pause": "100"},
     { "logo-hide": "fire" },
     { "logo-show": "checkmark" },
     { "normal": "I was so happy for you!" },
